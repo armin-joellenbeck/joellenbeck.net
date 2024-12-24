@@ -1,3 +1,3 @@
 # joellenbeck.net
 
-Armin JÃllenbeck's home page
+Armin JÃ¶llenbeck's home page
