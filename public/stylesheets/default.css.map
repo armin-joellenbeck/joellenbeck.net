@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["default.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EAAG;;;AAEH;EAAI","sourcesContent":["body {\n  font-family: 'Ubuntu', sans-serif;\n  font-display: swap;\n}\n\na {text-decoration: none;}\n\ndd {padding-bottom: 1em;}\n"],"file":"default.css"}
