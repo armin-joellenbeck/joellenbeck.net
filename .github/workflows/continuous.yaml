@@ -2,6 +2,8 @@ name: Continuous
 on:
   push:
     branches:
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
 jobs:
   build:
     runs-on: ubuntu-24.04
